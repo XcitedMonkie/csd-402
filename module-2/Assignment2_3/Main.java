@@ -1,4 +1,9 @@
 
+/*
+    Daniel Fryer
+    Assignment 2.3
+    4/3/2026
+*/
 import java.util.Random;
 import java.util.Scanner;
 
