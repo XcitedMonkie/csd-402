@@ -1,2 +1,2 @@
-# csd-402
-Used for Java class
+# csd-402 and csd-420
+Used for Java classes
