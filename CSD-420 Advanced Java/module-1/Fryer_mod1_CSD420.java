@@ -46,6 +46,7 @@ public class Fryer_mod1_CSD420 extends Application
 
         // Create the button to call the refresh 
         Button refresh = new Button("Refresh");
+        // use of the lamba expression
         refresh.setOnAction(e -> displayCards());
 
         HBox buttonPane = new HBox(refresh);
@@ -61,7 +62,7 @@ public class Fryer_mod1_CSD420 extends Application
 
         // create the scene
         Scene scene = new Scene(root, 1000, 500);
-        primaryStage.setTitle("Random Cards");
+        primaryStage.setTitle("Get and Show Random Cards");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
